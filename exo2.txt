@@ -1,0 +1,10 @@
+What is the option to "ls" to list all files? Try it in your home directory.
+Which files do you see now that you don’t see with "ls" alone?
+ls -a
+hidden files
+What is the option to "ls" to list all files in all subdirectories. Try it.
+ls -R
+What is the command to count lines, words and characters in a file?
+wc -l -w -m exo2.txt
+How do you make this command display only the number of lines?
+ 8
